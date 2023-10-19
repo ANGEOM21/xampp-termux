@@ -83,7 +83,7 @@ terdapat htdocs di dalam folder php yang berada di home termux nya jika ingin me
 cd php/htdocs
 ```
 tambahkan folder yang ingin anda buat dan anda sudah bisa menjalankan seperti xampp di di Handphone melalui Termux 
-
+### selamat 😊
 
 * CREDITS
 
