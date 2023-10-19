@@ -36,7 +36,7 @@
 ```
 ## installation
 
-Pastikan Sudah Menginstall Termux [disini](https://www.phpmyadmin.net/ )
+Pastikan Sudah Menginstall Termux [disini](https://drive.google.com/file/d/10oWTqfX_xZ0L6BoXbmpZHyRpak5tsToi/view?usp=share_link )
 Buka Aplikasi Termux nya 
 
 * lalu jalankan seperti ini
